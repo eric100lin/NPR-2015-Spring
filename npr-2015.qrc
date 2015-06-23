@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/media-playback-start.png</file>
+        <file>images/media-playback-stop.png</file>
+        <file>images/player_pause.png</file>
+        <file>images/media-seek-backward.png</file>
+        <file>images/media-seek-forward.png</file>
+        <file>images/arrow.png</file>
+        <file>images/dropper.png</file>
+        <file>images/nudge.png</file>
+        <file>images/overdraw.png</file>
+        <file>images/paintbrush.png</file>
+        <file>images/scissor.png</file>
+        <file>images/scissor2_xpm.png</file>
+        <file>images/zoom.png</file>
+        <file>images/logo.png</file>
+        <file>images/accessories-calculator.png</file>
+    </qresource>
+</RCC>
